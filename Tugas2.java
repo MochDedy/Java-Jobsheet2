@@ -18,6 +18,7 @@ public class Tugas2 {
         System.out.print("Masukkan jumlah kolam lingkaran!: ");
         JumlahKolamLingkaran = input.nextInt();
         
+        
         System.out.print("Masukkan diameter kolam lingkaran (Meter): ");
         DiameterLingkaran = input.nextInt();
 
