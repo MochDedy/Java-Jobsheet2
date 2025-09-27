@@ -27,5 +27,6 @@ public class tugas1 {
         GajiBersih = GajiPokok+(TunjanganAnak * JumlahAnak)-(GajiPokok * PotonganGaji);
 
         System.out.println("Total Gaji Bersih anda adalah " + (int) GajiBersih);
+
     }
 }
